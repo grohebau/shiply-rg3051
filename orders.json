@@ -1,0 +1,47 @@
+{
+  "SE428152688DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Tino Meinel, Nordstraße 27, 08606 Oelsnitz/Vogtl., Deutschland",
+    "price": "10.225,00 €",
+    "description": "Hersteller: Honda<br>Typ: CRF1100 Africa Twin Adventure Sports<br>Fahrgestelnummer: JHS2SD09CXLK000212<br>Erstzulassung: 10/2019<br>KM laut Vorbesitzer: 5.162 km<br>Leistung: 75 kW (102 PS)<br>Hubraum: 1.100 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Lieferumfang: Seitentaschen, Topcase inkl. Innentaschen, Tanktasche, Garmin Navigation.",
+    "address": "Jahnsmüller und Spranger<br>Raasdorfer Str. 10<br>08261 Schöneck/Vogtland<br>Deutschland<br>Telefon: +49 15561 441264",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "02.03.2026",
+    "deliveryDate": "06.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
