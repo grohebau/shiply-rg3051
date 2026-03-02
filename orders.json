@@ -36,10 +36,10 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Raasdorfer Str. 10",
+      "postal_code": "08261",
+      "city": "Schöneck/Vogtland",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     }
