@@ -1,6 +1,6 @@
 {
   "SE428152688DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Tino Meinel, Nordstraße 27, 08606 Oelsnitz/Vogtl., Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "02.03.2026",
     "deliveryDate": "06.03.2026, 11:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Berliner Straße 8",
+      "postal_code": "16727",
+      "city": "Velten",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
