@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "02.03.2026",
-    "deliveryDate": "06.03.2026, 11:30 Uhr",
+    "deliveryDate": "Beim örtlichen Zusteller eingetroffen",
     "pickup": {
       "street": "Berliner Straße 8",
       "postal_code": "16727",
@@ -36,9 +36,9 @@
       "lng": ""
     },
     "delivery": {
-      "street": "Raasdorfer Str. 10",
-      "postal_code": "08261",
-      "city": "Schöneck/Vogtland",
+      "street": "Hofer Str. 1",
+      "postal_code": "08606",
+      "city": "Oelsnitz/Vogtl.",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
